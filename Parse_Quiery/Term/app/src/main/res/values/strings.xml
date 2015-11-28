@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Term</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Parse Simple ListView</string>
+    <string name="namelabel">"Name : "</string>
+
+</resources>
