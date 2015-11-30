@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tremproject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_main">Parse Simple ListView</string>
+    <string name="namelabel">"Name : "</string>
+    <string name="degree">"Degree"</string>
+    <string name="humidity">"Humidity"</string>
+    <string name="ok">"Ok"</string>
+    <string name="cancel">"Cancel"</string>
+</resources>

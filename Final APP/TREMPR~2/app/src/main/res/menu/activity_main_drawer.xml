@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_slideshow" android:icon="@drawable/ic_action_about"
+            android:title="식물 도감" />
+        <item android:id="@+id/nav_manage" android:icon="@android:drawable/ic_menu_manage"
+            android:title="설정" />
+        <item android:id="@+id/set_name_date_species" android:icon="@android:drawable/ic_input_add"
+            android:title="식물 데이터 입력"></item>
+    </group>
+
+</menu>
